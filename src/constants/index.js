@@ -1,0 +1,1 @@
+export const CALL_CONSOLE = 'CALL_CONSOLE';
